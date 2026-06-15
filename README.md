@@ -1,7 +1,3 @@
-# PS : The SIA_Notebook.ipynb file was a colab file, due to which it is having problem with colab widgets metadata, Please download and run the file
-
-
-
 # Support Integrity Auditor (SIA)
 
 ## Project Overview

@@ -1,5 +1,3 @@
-# Support Integrity Auditor
-
 # Support Integrity Auditor (SIA)
 
 ## Project Overview

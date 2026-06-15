@@ -1,0 +1,6 @@
+Ticket_ID,Ticket_Subject,Ticket_Description,Ticket_Channel,Issue_Category,Resolution_Time_Hours,Satisfaction_Score
+1001,Server Down,Customers are unable to access the platform and all services are unavailable.,Email,Technical Issue,72,1
+1002,Payment Failed,Users are reporting payment failures during checkout.,Phone,Billing,48,2
+1003,Password Reset,Customer wants to reset password and regain account access.,Chat,Account Access,6,4
+1004,Account Locked,Multiple users report account lock issues after login attempts.,Email,Account Access,24,2
+1005,UI Bug,Minor display issue observed on dashboard page.,Web,UI/UX,3,5
